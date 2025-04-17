@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Akanksha Kurhe</h1>
 <h3 align="center">Passionate Problem-Solver | Skilled Developer | Lifelong Learner</h3>
 
-- 🔭 I’m currently working on **Chat Application**
+- 🔭 I’m currently working on **Student Management System**
 
 - 🌱 I’m currently learning **Web sockets, Spring boot**
 
