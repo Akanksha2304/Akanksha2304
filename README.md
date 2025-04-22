@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Akanksha Kurhe</h1>
 <h3 align="center">Passionate Problem-Solver | Skilled Developer | Lifelong Learner</h3>
 
-- 🔭 I’m currently working on **Student Management System**
+- 🔭 I’m currently working on **Employee Management System**
 
-- 🌱 I’m currently learning **Web sockets, Spring boot**
+- 🌱 I’m currently learning **AWT, SWING**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Akanksha2304/](https://github.com/Akanksha2304/)
 
